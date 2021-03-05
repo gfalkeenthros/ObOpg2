@@ -1,0 +1,49 @@
+body {
+    background-color: #FAEE84;
+}
+
+p {
+    text-align:center;
+}
+
+img {
+    vertical-align: top;
+    -webkit-transform: scaleY(0.75);
+    padding:0%;
+}
+
+li {
+    text-align:center;
+    position:relative;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+   color:slateblue;
+   font-weight: bold;
+}
+
+h3{
+    text-align:center;
+}
+
+div {
+    max-width: 100%;
+}
+
+.container {
+    padding:0%;
+    min-width:100%;
+    vertical-align: top;
+    height:100%;
+    margin-top: -20px;
+}
+
+.jumbotron
+{
+    background-color:darkslateblue;
+    color:ivory;
+}
